@@ -1,6 +1,6 @@
 # Moral Imaginations website
 
-This repository is is for the https://moralimaginations.github.io/ website. We’ll eventually be [pointing a domain to this website](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+This repository is for the https://moralimaginations.github.io/ website. We’ll eventually be [pointing a domain to this website](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
 ## How to play
 
